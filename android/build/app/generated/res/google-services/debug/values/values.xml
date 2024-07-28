@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://carrental-44159-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">845352687619</string>
+    <string name="google_api_key" translatable="false">AIzaSyAkwBbKY3G58sa5S0isriN68Y-Ab4LO8RQ</string>
+    <string name="google_app_id" translatable="false">1:845352687619:android:20d9142d671a57b9309636</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAkwBbKY3G58sa5S0isriN68Y-Ab4LO8RQ</string>
+    <string name="google_storage_bucket" translatable="false">carrental-44159.appspot.com</string>
+    <string name="project_id" translatable="false">carrental-44159</string>
+</resources>
